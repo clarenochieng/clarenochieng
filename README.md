@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Claren Ochieng.
 - 👀 I’m interested in deep learning and artificial intelligence systems.
-- 🌱 I’m currently learning data science, machine learning and deep learning at Africa Data School.
+- 🌱 I’m currently learning data science, machine learning and deep learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me: email - clarenclarkson1@gmail.com
 
