@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and artificial intelligence.
 - 🌱 I’m currently learning data science, machine learning and deep learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 How to reach me: email - clarenclarkson1@gmail.com
+- 📫 How to reach me: email - [claren] [clarkson] [1] [at] [g] [mail] [dot] [com]
 
 <!---
 clarenochieng/clarenochieng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
